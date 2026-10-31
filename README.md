@@ -1,4 +1,4 @@
-# Slopperino â€” download per Windows
+# Slopperino - download per Windows
 
 Questa pagina contiene **soltanto i pacchetti di installazione** di Slopperino. Il repository di sviluppo non e pubblico.
 
